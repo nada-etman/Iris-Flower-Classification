@@ -30,5 +30,5 @@ The trained model predicts one of the following Iris species:
 - Virginica
 
 ## Author
-Nod Nod
+Nada Etman
 CodeAlpha Data Science Internship

@@ -117,7 +117,3 @@ CodeAlpha_Iris_Flower_Classification/
 - A simple linear SVM is sufficient to achieve perfect classification on this dataset.
 
 
-
----
-
-📌 *Feel free to fork this repository, raise issues, or suggest improvements!*

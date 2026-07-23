@@ -98,7 +98,7 @@ The script will print dataset info, model accuracy scores, and classification re
 ##  Project Structure
 
 ```
-CodeAlpha_Iris_Flower_Classification/
+Iris_Flower_Classification/
 │
 ├── Iris.csv                        # Dataset
 ├── iris_classification.py          # Main script
